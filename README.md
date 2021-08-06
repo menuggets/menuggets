@@ -8,7 +8,7 @@
  <img height="118em" src="https://cdn.discordapp.com/attachments/799486544205447199/873053187970588722/Webp.net-gifmaker_5.gif"/>✨
 </div>
 
-<font size="1">🔭 Estou começando aqui...</br></font>
+<font size="1">🔭 Começando por aqui...</br></font>
 <font size="1">😄 Pronouns: ela/dela she/her😘</br></font>
 <font size="1">🌱 Estou aprendendo Java & Angula👣</br></font>
 <font size="1">👯 Pode me chamar pros projetos e estudos👾</br></font>
