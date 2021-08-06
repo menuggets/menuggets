@@ -14,7 +14,7 @@
 <font size="1">👯 Pode me chamar pros projetos e estudos👾</br></font>
 <font size="1">🤔 É sempre bom receber ajuda, seja elogios, sugestões ou críticas ✌💸</br></font>
 <font size="1">⚡ Fun fact: Tenho alma de artista e me arrisco desenhando e pintando🎨 </br>
-<font size="1">⚡⚡e também não tenho medo de morrer, gosto de coisas radicai🛵✈</br></font>
+<font size="1">⚡⚡e também não tenho medo de morrer, gosto de coisas radicais🛵✈</br></font>
 
 <font size="3">🚀 Never stop learning!!🧠
 </font>
